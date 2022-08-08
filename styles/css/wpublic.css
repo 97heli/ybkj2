@@ -1,0 +1,77 @@
+@charset "UTF-8";
+
+
+	.wrap{
+		padding:0 24rpx;
+	}
+	
+	view,
+	swiper,
+	swiper-item,
+	cover-view,
+	cover-image,
+	icon,
+	text,
+	rich-text,
+	progress,
+	button,
+	checkbox,
+	form,
+	input,
+	label,
+	radio,
+	slider,
+	switch,
+	textarea,
+	navigator,
+	audio,
+	camera,
+	image,
+	video {
+		box-sizing: border-box;
+	}
+	.flex{
+		display: flex;
+	}
+	.flex_sb{
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+	.flex_fs{
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+	}
+	.flex_fe{
+		display: flex;
+		justify-content: flex-end;
+		align-items: center;
+	}
+	.mr60{
+		margin-right: 60rpx;
+	}
+	.hiddenOne{
+		  overflow: hidden;
+		  white-space: nowrap;
+		  text-overflow: ellipsis;
+	}
+	.lh80{
+		line-height: 80rpx;
+	}
+	.lh70{
+		line-height: 70rpx;
+	}
+	.lh60{
+		line-height: 50rpx;
+	}
+	.lh50{
+		line-height: 40rpx;
+	}
+	.lh40{
+		line-height: 80rpx;
+	}
+	.lh30{
+		line-height: 30rpx;
+	}
+	
